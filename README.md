@@ -1,4 +1,4 @@
-<h1>A.I Personal Trainer</h1>
+<h1>A.I Personal Trainer :weight_lifting_woman: </h1>
 
 ![](https://github.com/Akhil-Tony/A.I-Personal-Trainer/blob/master/sample.gif)
 
