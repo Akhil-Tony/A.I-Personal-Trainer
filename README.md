@@ -10,4 +10,5 @@ The bottom box also maintain a count of the of <b>repetition</b> made by the tra
 - Mediapipe
 - OpenCV
 - Numpy
+- Math
 
